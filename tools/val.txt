@@ -1,0 +1,4 @@
+/home/kamlesh/Desktop/RWF-2000Dataset/Videos/train/Fight/Fight-105.avi	0	INF                   
+/home/kamlesh/Desktop/RWF-2000Dataset/Videos/train/NonFight/NonFight-114.avi	INF	INF
+/home/kamlesh/Desktop/RWF-2000Dataset/Videos/train/NonFight/NonFight-128.avi	INF	INF
+/home/kamlesh/Desktop/RWF-2000Dataset/Videos/train/Fight/Fight-215.avi	0	INF

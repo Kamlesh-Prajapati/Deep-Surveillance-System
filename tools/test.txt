@@ -1,0 +1,19 @@
+/home/kamlesh/Desktop/RWF-2000Dataset/Videos/train/Fight/Fight-30.avi	0	INF                   
+/home/kamlesh/Desktop/RWF-2000Dataset/Videos/train/NonFight/NonFight-34.avi	INF	INF
+/home/kamlesh/Desktop/RWF-2000Dataset/Videos/train/NonFight/NonFight-38.avi	INF	INF
+/home/kamlesh/Desktop/RWF-2000Dataset/Videos/train/Fight/Fight-35.avi	0	INF
+/home/kamlesh/Desktop/RWF-2000Dataset/Videos/train/NonFight/NonFight-43.avi	INF	INF
+/home/kamlesh/Desktop/RWF-2000Dataset/Videos/train/Fight/Fight-43.avi	0	INF
+/home/kamlesh/Desktop/RWF-2000Dataset/Videos/train/Fight/Fight-49.avi	0	INF
+/home/kamlesh/Desktop/RWF-2000Dataset/Videos/train/Fight/Fight-55.avi	0	INF
+/home/kamlesh/Desktop/RWF-2000Dataset/Videos/train/NonFight/NonFight-47.avi	INF	INF
+/home/kamlesh/Desktop/RWF-2000Dataset/Videos/train/Fight/Fight-56.avi	0	INF
+/home/kamlesh/Desktop/RWF-2000Dataset/Videos/train/Fight/Fight-61.avi	0	INF
+/home/kamlesh/Desktop/RWF-2000Dataset/Videos/train/NonFight/NonFight-59.avi	INF	INF
+/home/kamlesh/Desktop/RWF-2000Dataset/Videos/train/NonFight/NonFight-63.avi	INF	INF
+/home/kamlesh/Desktop/RWF-2000Dataset/Videos/train/NonFight/NonFight-67.avi	INF	INF
+/home/kamlesh/Desktop/RWF-2000Dataset/Videos/train/Fight/Fight-69.avi	0	INF
+/home/kamlesh/Desktop/RWF-2000Dataset/Videos/train/Fight/Fight-80.avi	0	INF
+/home/kamlesh/Desktop/RWF-2000Dataset/Videos/train/NonFight/NonFight-98.avi	INF	INF
+/home/kamlesh/Desktop/RWF-2000Dataset/Videos/train/Fight/Fight-87.avi	0	INF
+
